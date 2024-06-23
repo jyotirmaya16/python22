@@ -1,0 +1,6 @@
+wether dat= https://raw.githubusercontent.com/singhrau0/Wheather-Prediction-march-batch/main/Datasets/raw_data/train.csv
+ alcohol data=  https://raw.githubusercontent.com/singhrau0/Big-Data-Preprocessing/main/all_data%20-%20all_data.csv
+loan data=  https://raw.githubusercontent.com/singhrau0/Big-Data-Preprocessing/main/loanclean.csv
+youtube data=https://raw.githubusercontent.com/singhrau0/Big-Data-Preprocessing/main/youtubesample.csv
+      part1=https://raw.githubusercontent.com/singhrau0/Youtube-Data-Analysis/main/USvideos.csv
+      part2=https://raw.githubusercontent.com/singhrau0/Youtube-Data-Analysis/main/US_category_id.json
